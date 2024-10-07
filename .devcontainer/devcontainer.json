@@ -1,0 +1,4 @@
+{
+    "name": "node.js",
+    "image":"mcr.microsoft.com/devcontainers/universal:2"
+}
